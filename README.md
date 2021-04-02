@@ -1,5 +1,5 @@
 # FizzBuzz
-Cuban engineer test
+Simple test
 
 ### Description of the test
 
